@@ -1,0 +1,30 @@
+body {
+  background-color: beige;
+}
+
+.btn {
+  background-color: whitesmoke;
+  border: solid black 1px;
+}
+
+#dep-label {
+  float: left;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ppl {
+  padding-bottom: 600px;
+  width: 200px;
+}
+
+#row2 {
+  float: right;
+  padding-bottom: 100px;
+}
